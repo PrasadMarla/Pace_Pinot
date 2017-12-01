@@ -1,0 +1,1 @@
+130.245.127.56,ahmad,pace2016,/home/ubuntu/pinot/pinot-distribution/target/pinot-0.016-pkg/target/workloadData
